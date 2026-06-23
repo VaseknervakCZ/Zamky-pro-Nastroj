@@ -1,0 +1,22 @@
+{
+    "users": [
+        {
+            "username": "admin",
+            "password": "password",
+            "display_name": "Technik",
+            "role": "admin"
+        },
+        {
+            "username": "samuel",
+            "password": "samuel123",
+            "display_name": "Samuel",
+            "role": "editor"
+        },
+        {
+            "username": "dominik",
+            "password": "dominik123",
+            "display_name": "Dominik",
+            "role": "editor"
+        }
+    ]
+}
