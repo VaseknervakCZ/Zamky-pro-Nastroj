@@ -3,15 +3,11 @@
     "episodes": [],
     "plans": [
         {
-            "title": "Minecraft Pele",
-            "content": "Houby",
+            "title": "Mob trap",
+            "content": "Postavit mob farmu",
             "status": "Planning",
-            "created": "2026-09-06T01:52:30.259663"
+            "created": "2026-09-06T01:58:12.484645"
         }
     ],
-    "todo": {
-        "technical": [],
-        "content": []
-    },
     "live_log": []
 }
