@@ -1,7 +1,14 @@
 {
     "name": "Klokan",
     "episodes": [],
-    "plans": [],
+    "plans": [
+        {
+            "title": "Minecraft Pele",
+            "content": "Houby",
+            "status": "Planning",
+            "created": "2026-09-06T01:52:30.259663"
+        }
+    ],
     "todo": {
         "technical": [],
         "content": []
