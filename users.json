@@ -1,22 +1,25 @@
 {
     "users": [
         {
-            "username": "admin",
-            "password": "password",
+            "username": "vaseknervak",
+            "password": "frajer-34",
+            "verification_code": "34",
             "display_name": "Technik",
-            "role": "admin"
+            "role": "YouTuber, Technik"
         },
         {
             "username": "samuel",
             "password": "samuel123",
+            "verification_code": "511",
             "display_name": "Samuel",
-            "role": "editor"
+            "role": "YouTuber, Editor"
         },
         {
             "username": "dominik",
             "password": "dominik123",
+            "verification_code": "85",
             "display_name": "Dominik",
-            "role": "editor"
+            "role": "YouTuber, Editor"
         }
     ]
 }
